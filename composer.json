@@ -1,0 +1,19 @@
+{
+    "name": "echoballon/md5hash",
+    "description": "this is laravel md5 package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "echoBallon",
+            "email": "695607679@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+
+        "psr-4": {
+            "echoBallon\\Md5Hash\\":"src/"
+        }
+    }
+}
